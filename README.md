@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm EQMoore! 👋<br><br>I'm a high schooler with a passion for robotics on FRC team 467. I have experience in a variety of programming languages and cloud technologies. This profile is a look into my work, skills, and activity. Feel free to connect or explore my projects.
+# Hi there, I'm EQMoore! 👋<br><br>I'm a passionate high schooler with a passion for robotics on FRC team 467. I have experience in a variety of programming languages and cloud technologies. This profile is a look into my work, skills, and activity. Feel free to connect or explore my projects.
 
 
 # 💻 Tech Stack:
@@ -8,15 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=EQMoore&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EQMoore&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EQMoore&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EQMoore&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=EQMoore&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
