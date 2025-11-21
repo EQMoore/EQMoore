@@ -4,7 +4,7 @@
 
 # Hi there, I'm EQMoore! 👋
 
-I'm a passionate high schooler with a passion for robotics and experience in a variety of programming languages and cloud technologies. This profile is a look into my work, skills, and activity. Feel free to connect or explore my projects.
+I'm a passionate high schooler with a passion for robotics on FRC team 467. I have experience in a variety of programming languages and cloud technologies. This profile is a look into my work, skills, and activity. Feel free to connect or explore my projects.
 
 ## 📊 My GitHub Stats
 
@@ -19,18 +19,18 @@ I'm a passionate high schooler with a passion for robotics and experience in a v
 
 I work with a range of languages and tools, from core programming languages like Java and Python to cloud platforms like Google Cloud.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
-</p>
-
-
-
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" height="30"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="30"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/></td>
+</tr>
+</table>
 
 <br clear="both">
+
