@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm EQMoore! 👋<br><br>I'm a passionate high schooler with a passion for robotics on FRC team 467. I have experience in a variety of programming languages and cloud technologies. This profile is a look into my work, skills, and activity. Feel free to connect or explore my projects.
+# Hi there, I'm EQMoore! 👋<br><br>I'm a high schooler with a passion for robotics and computer-science on FRC team 467. I have experience in a variety of programming languages and cloud technologies. This profile is a look into my work, skills, and activity. Feel free to connect or explore my projects.
 
 
 # 💻 Tech Stack:
