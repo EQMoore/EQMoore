@@ -19,13 +19,17 @@ I'm a passionate high schooler with a passion for robotics and experience in a v
 
 I work with a range of languages and tools, from core programming languages like Java and Python to cloud platforms like Google Cloud.
 
-<div style="display: flex; align-items: center; gap: 12px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
-</div>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="30" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
+</p>
+
 
 
 <br clear="both">
